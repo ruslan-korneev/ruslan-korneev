@@ -21,3 +21,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ruslan-korneev&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7" />
   </a>
 </p>
+
+## Contacts & CV
+- [CV](https://github.com/ruslan-korneev/cv)
+- [telegram](https://t.me/ruslan_korneev)
+- [linked-in](https://linkedin.com/in/ruslan-korneev/)
+- [ruslan-korneev.dev](https://ruslan-korneev.dev)
