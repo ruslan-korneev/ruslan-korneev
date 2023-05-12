@@ -1,16 +1,23 @@
-### Hi there 👋
+# Ruslan Korneev
 
-<!--
-**ruslan-korneev/ruslan-korneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruslan-korneevl&label=Profile Views&color=green&style=for-the-badge" alt="Shaggy Profie Views" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Stack of Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=bash,lua,neovim,git,gitlab,github,githubactions,py,django,redis,postgres,nginx,docker,kubernetes,html,css,javascript,typescript,react,aws,gcp&perline=7&theme=dark" />
+  </a>
+  <a href="https://github.com/ruslan-korneev/?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslan-korneev&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7&hide=html,css" />
+  </a>
+</p>
+
+## ⚡ GitHub Activities
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=ruslan-korneev&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7" />
+  </a>
+</p>
