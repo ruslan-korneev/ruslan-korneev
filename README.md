@@ -1,7 +1,7 @@
 # Ruslan Korneev
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruslan-korneevl&label=Profile Views&color=green&style=for-the-badge" alt="Shaggy Profie Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruslan-korneevl&label=Profile Views&color=blueviolet&style=plastic" alt="Shaggy Profie Views" /> </p>
 
 ## 🚀 Stack of Technologies
 
