@@ -1,7 +1,7 @@
 # Ruslan Korneev
 
 ## Roadmap Profile
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/648035c640cee644b28897ee?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648035c640cee644b28897ee)](https://roadmap.sh)
 
 ## ⚡ GitHub Activities
 
