@@ -1,8 +1,8 @@
 # Ruslan Korneev
 
 ## Roadmap Profile
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648035c640cee644b28897ee)](https://roadmap.sh)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648035c640cee644b28897ee?variant=dark&roadmaps=python%2Cpostgresql-dba%2Cdevops%2Cbackend)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648035c640cee644b28897ee?variant=dark&roadmaps=typescript%2Ckubernetes%2Cdocker%2Csoftware-design-architecture)](https://roadmap.sh)
 ## ⚡ GitHub Activities
 
 <p align="center">
