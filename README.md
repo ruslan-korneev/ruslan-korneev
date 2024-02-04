@@ -13,7 +13,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ruslan-korneev&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="mystreak"/>
   </a> -->
 </p>
-
-
-[![autocomplete](https://codeium.com/badges/user/ruslan-korneev/autocomplete)](https://codeium.com)
-[![streak](https://codeium.com/badges/v2/user/ruslan-korneev/streak)](https://codeium.com/profile/garishly-vivid-linnet-14326)
