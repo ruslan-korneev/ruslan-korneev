@@ -1,7 +1,5 @@
 # Ruslan Korneev
 
-## [My Digital Garden](https://ruslan.beer/)
-
 ## ⚡ GitHub Activities
 
 <p align="center">
